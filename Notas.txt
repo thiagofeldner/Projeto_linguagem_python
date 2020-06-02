@@ -1,0 +1,4 @@
+Thiago, 10, 9, 8 ,7
+Felipe, 7, 8, 5 ,6
+Feldner, 7, 8, 5 ,6
+Gabriel, 7, 9, 6 ,5
